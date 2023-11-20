@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Eu+Sou+Felipe+Reis;Desenvolvedor+Front-End++)](https://git.io/typing-svg) <br>
 
-- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo html"> <br>
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo css"> <br>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo javascript"> <br>
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo html"> 
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo css"> 
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo javascript"> 
 
   <h2>conecte-se comigo: </h2>
   <a href="https://www.linkedin.com/in/felipe-dos-reis-de-andrade"> <img   src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin" > </a> <br>
